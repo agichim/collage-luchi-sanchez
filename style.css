@@ -1,0 +1,17 @@
+* {
+  font-family: monospace;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+div {
+  width: 75%;
+  margin: auto;
+}
+
+img {
+  padding: 20px;
+  display: block;
+  max-height: 100vh;
+  margin: auto;
+}
